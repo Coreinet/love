@@ -101,7 +101,7 @@ export default function HeartsPage() {
                   lineHeight: '1.8',
                   fontStyle: 'italic'
                 }}>
-                  "{currentMessage}"
+                  &ldquo;{currentMessage}&rdquo;
                 </div>
               </div>
             )}
